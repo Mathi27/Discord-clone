@@ -1,0 +1,25 @@
+{
+  "name": "discordclone",
+  "version": "1.0.0",
+  "description": "poc discrod clone",
+  "main": "app.js",
+  "scripts": {
+    "start":"parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathi27/Discord-clone.git"
+  },
+  "keywords": [
+    "react",
+    "discord",
+    "clone"
+  ],
+  "author": "Mathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mathi27/Discord-clone/issues"
+  },
+  "homepage": "https://github.com/Mathi27/Discord-clone#readme"
+}
